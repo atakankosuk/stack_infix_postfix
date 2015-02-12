@@ -1,0 +1,6 @@
+c:\users\kosuk\documents\visual studio 2010\Projects\stack\stack\bin\Debug\stack.exe
+c:\users\kosuk\documents\visual studio 2010\Projects\stack\stack\bin\Debug\stack.pdb
+c:\users\kosuk\documents\visual studio 2010\Projects\stack\stack\obj\x86\Debug\stack.exe
+c:\users\kosuk\documents\visual studio 2010\Projects\stack\stack\obj\x86\Debug\stack.pdb
+C:\Users\atakan\Dropbox\okul\stack\stack\obj\x86\Debug\stack.exe
+C:\Users\atakan\Dropbox\okul\stack\stack\obj\x86\Debug\stack.pdb
